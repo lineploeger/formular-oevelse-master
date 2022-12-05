@@ -1,0 +1,24 @@
+/* Dine styles her */
+form {
+  padding: 2rem;
+  background: hsl(264 30% 96%);
+  border-radius: 8px;
+}
+
+.form-felt {
+  display: block;
+  padding-top: 15px;
+}
+
+label,
+input,
+textarea,
+select,
+button {
+  display: block;
+  font-size: medium;
+}
+
+button {
+  margin-top: 20px;
+}
